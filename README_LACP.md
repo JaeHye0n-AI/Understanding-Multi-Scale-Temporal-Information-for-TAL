@@ -1,6 +1,5 @@
 # Understanding-Rich-Temporal-Information-for-TAL
 
-
 ### Recommended Environment
 * Python 3.6+
 * Pytorch 1.6+
@@ -61,7 +60,7 @@ pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f htt
 ### Training
 By executing the script provided below, you can easily train the model.
 
-If you want to try other options, please refer to `options.py`.
+If you want to try other options, please refer to 'options.py'.
 
 ~~~~
 python main.py
