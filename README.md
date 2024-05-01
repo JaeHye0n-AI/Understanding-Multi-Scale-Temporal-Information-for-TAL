@@ -22,7 +22,7 @@ pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f htt
 ### Data Preparation
 1. Download extracted features (THUMOS'14) from [LACP](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points).
 
-2. Place the features inside the `dataset` folder.
+2. Place the features inside the `dataset` directory.
     * Please ensure the data structure is as below.
    
 ~~~~
@@ -69,7 +69,7 @@ python main.py
 ### Testing
 The pre-trained model can be found [here](https://drive.google.com/file/d/1Tu2fTaXfAvjMhwWoy02_1z2qoEozCkfn/view?usp=sharing).
 You can test the model by running the command below.
-* Place the pre-trained model in the `models` directoty.
+* Place the pre-trained model in the `models` directory.
 
 ~~~~
 python main_eval.py
