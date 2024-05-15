@@ -78,3 +78,4 @@ python main_eval.py
 ## References
 We referenced the repo below for the code.
 Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization (ICCV 2021) [[paper](https://arxiv.org/abs/2108.05029)] [[code](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)]
+Troubleshooting the problem that does not support Nvidia GeForce RTX 3090 [[repo](https://github.com/workjo/Learning-Action-Completeness-from-Points/blob/main/Troubleshooting_the_problem_that_does_not_support_RTX_3090.md)]
