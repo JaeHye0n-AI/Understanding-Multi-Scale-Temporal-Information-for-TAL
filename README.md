@@ -1,4 +1,4 @@
-# Understanding-Rich-Temporal-Information-for-TAL
+# Understanding-Multi-Scale-Temporal-Information-for-TAL
 
 ### Recommended Environment
 * Python 3.6+
