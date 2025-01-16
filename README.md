@@ -1,5 +1,7 @@
 # Understanding-Multi-Scale-Temporal-Information-for-TAL
 
+[figure_1_review.pdf](https://github.com/user-attachments/files/18441991/figure_1_review.pdf)
+
 ### Recommended Environment
 * Python 3.6+
 * Pytorch 1.6+
