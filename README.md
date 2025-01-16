@@ -1,6 +1,8 @@
 # Understanding-Multi-Scale-Temporal-Information-for-TAL
 
-[figure_1_review.pdf](https://github.com/user-attachments/files/18441991/figure_1_review.pdf)
+![Image](https://github.com/user-attachments/assets/9a43aa77-6afa-4166-acdf-6880b7a97327)
+
+[dd.pdf](https://github.com/user-attachments/files/18442039/dd.pdf)
 
 ### Recommended Environment
 * Python 3.6+
